@@ -4,13 +4,180 @@
       "id": "2026-09-25-gaslighting",
       "image_path": "content_queue/images/2026-09-25-gaslighting.jpg",
       "caption": "Bugünün terimi: Gaslighting nedir? 🧠\n\nGaslighting, karşı tarafın kendi algısından, hafızasından ve gerçeklik duygusundan şüphe etmesine yol açan bir psikolojik manipülasyon biçimidir...\n\n#psikoloji #gaslighting #psikolojikansiklopedi",
-      "posted": true,
-      "published_media_id": "18018869453945966"
+      "posted": true
     },
     {
       "id": "2026-09-26-baglanma-stilleri",
       "image_path": "content_queue/images/2026-09-26-baglanma-stilleri.jpg",
       "caption": "4 bağlanma stili ve ilişkilerinize etkisi 🔎\n\nGüvenli, kaygılı, kaçıngan ve dağınık bağlanma stilleri, çocuklukta oluşur ve yetişkinlikte ilişkilerinize şekil verir...\n\n#bağlanmastilleri #psikoloji #ilişkipsikolojisi",
+      "posted": false
+    },
+    {
+      "id": "2026-09-27-bilissel-carpitmalar",
+      "image_path": "content_queue/images/2026-09-27-bilissel-carpitmalar.jpg",
+      "caption": "Bugünün kavramı: Felaketleştirme 🌪️\n\nBir bilişsel çarpıtma türü olan felaketleştirme, olayları gerçekte olduğundan çok daha kötü senaryolara taşıma eğilimidir.\n\n#bilişselçarpıtmalar #psikoloji #psikolojikansiklopedi",
+      "posted": false
+    },
+    {
+      "id": "2026-09-28-topraklama-teknigi",
+      "image_path": "content_queue/images/2026-09-28-topraklama-teknigi.jpg",
+      "caption": "Anksiyete anında işe yarayan bir teknik: 5-4-3-2-1 Topraklama 🌿\n\n5 şey gör, 4 şey dokun, 3 şey duy, 2 şey kokla, 1 şey tat.\n\n#anksiyete #topraklama #psikolojikansiklopedi",
+      "posted": false
+    },
+    {
+      "id": "2026-09-29-toksik-iliski",
+      "image_path": "content_queue/images/2026-09-29-toksik-iliski.jpg",
+      "caption": "Toksik bir ilişkinin erken belirtileri neler? 🚩\n\nSürekli kontrol, suçlama döngüleri, izolasyon ve duygusal iniş çıkışlar — sağlıksız bir dinamiğin ilk işaretleri olabilir.\n\n#toksikilişki #psikoloji #ilişkipsikolojisi",
+      "posted": false
+    },
+    {
+      "id": "2026-09-30-guvenli-baglanma",
+      "image_path": "content_queue/images/2026-09-30-guvenli-baglanma.jpg",
+      "caption": "Çocukla güvenli bağlanma nasıl kurulur? 👶\n\nTutarlılık, duygusal erişilebilirlik ve hatalardan sonra onarım — güvenli bağlanmanın üç temel taşıdır.\n\n#ebeveynlik #güvenlibağlanma #psikolojikansiklopedi",
+      "posted": false
+    },
+    {
+      "id": "2026-10-01-sinir-koymak",
+      "image_path": "content_queue/images/2026-10-01-sinir-koymak.jpg",
+      "caption": "Sınır koymak bencillik değildir 🛑\n\nHayır diyebilmek, kendi ihtiyaçlarınızı korumanın bir yoludur.\n\n#sınırkoymak #psikoloji #özbakım",
+      "posted": false
+    },
+    {
+      "id": "2026-10-02-icsel-elestirmen",
+      "image_path": "content_queue/images/2026-10-02-icsel-elestirmen.jpg",
+      "caption": "İçsel eleştirmeninizi tanıyor musunuz? 🗣️\n\nKafanızdaki o acımasız ses genelde geçmişten öğrenilmiş bir alışkanlıktır. Fark etmek, onu susturmanın ilk adımıdır.\n\n#içselelestirmen #psikoloji #özbakım",
+      "posted": false
+    },
+    {
+      "id": "2026-10-03-kutu-nefesi",
+      "image_path": "content_queue/images/2026-10-03-kutu-nefesi.jpg",
+      "caption": "Kutu nefesi tekniğini denediniz mi? 📦\n\n4 saniye al, 4 saniye tut, 4 saniye ver, 4 saniye bekle. Sinir sistemini birkaç dakikada sakinleştirebilir.\n\n#nefesegzersizi #anksiyete #psikolojikansiklopedi",
+      "posted": false
+    },
+    {
+      "id": "2026-10-04-empati-sempati",
+      "image_path": "content_queue/images/2026-10-04-empati-sempati.jpg",
+      "caption": "Empati mi, sempati mi? 🤝\n\nEmpati yanınıza oturur ve sizinle hisseder. Sempati yukarıdan bakar ve acır. Aradaki fark, ilişkilerde büyük fark yaratır.\n\n#empati #psikoloji #psikolojikansiklopedi",
+      "posted": false
+    },
+    {
+      "id": "2026-10-05-erteleme-psikolojisi",
+      "image_path": "content_queue/images/2026-10-05-erteleme-psikolojisi.jpg",
+      "caption": "Erteleme, tembellik değildir 🕰️\n\nÇoğu zaman görevden değil, o görevin uyandırdığı duygudan kaçarız. Erteleme bir duygu düzenleme sorunudur.\n\n#erteleme #psikoloji #verimlilik",
+      "posted": false
+    },
+    {
+      "id": "2026-10-06-ozguven-ozsaygi",
+      "image_path": "content_queue/images/2026-10-06-ozguven-ozsaygi.jpg",
+      "caption": "Özgüven mi, özsaygı mı? 💫\n\nÖzgüven yeteneklerinize duyduğunuz güvendir. Özsaygı ise koşulsuz olarak kendinize değer vermektir.\n\n#özsaygı #özgüven #psikolojikansiklopedi",
+      "posted": false
+    },
+    {
+      "id": "2026-10-07-aktif-dinleme",
+      "image_path": "content_queue/images/2026-10-07-aktif-dinleme.jpg",
+      "caption": "Aktif dinleme nedir? 👂\n\nCevap hazırlamadan, sadece anlamak amacıyla dinlemek. En güçlü ama en az kullanılan iletişim becerisidir.\n\n#iletişim #aktifdinleme #psikoloji",
+      "posted": false
+    },
+    {
+      "id": "2026-10-08-savas-kac-don",
+      "image_path": "content_queue/images/2026-10-08-savas-kac-don.jpg",
+      "caption": "Savaş-Kaç-Don-Yaltaklan tepkileri 🧬\n\nTehdit anında bedeninizin verdiği dört otomatik tepki biçimi. Hepsi normal birer savunma mekanizmasıdır.\n\n#travma #sinirbilim #psikolojikansiklopedi",
+      "posted": false
+    },
+    {
+      "id": "2026-10-09-mukemmeliyetcilik",
+      "image_path": "content_queue/images/2026-10-09-mukemmeliyetcilik.jpg",
+      "caption": "Mükemmeliyetçilik bir tuzak olabilir 🎯\n\nYüksek standartlar iyidir, ama hata payı bırakmamak kronik kaygı ve tükenmişliğe götürebilir.\n\n#mükemmeliyetçilik #psikoloji #tükenmişlik",
+      "posted": false
+    },
+    {
+      "id": "2026-10-10-sosyal-kaygi",
+      "image_path": "content_queue/images/2026-10-10-sosyal-kaygi.jpg",
+      "caption": "Sosyal kaygının belirtileri neler? 😰\n\nYargılanma korkusu, kızarma, terleme ve kaçınma davranışı — sosyal kaygının yaygın işaretleri arasındadır.\n\n#sosyalkaygı #psikoloji #psikolojikansiklopedi",
+      "posted": false
+    },
+    {
+      "id": "2026-10-11-minnettarlik",
+      "image_path": "content_queue/images/2026-10-11-minnettarlik.jpg",
+      "caption": "Minnettarlık pratiğinin gücü 🙏\n\nHer gün 3 şeyi yazmak bile, zamanla beyindeki negatif eğilimi dengeleyebilir.\n\n#minnettarlık #pozitifpsikoloji #psikoloji",
+      "posted": false
+    },
+    {
+      "id": "2026-10-12-ic-ses-gucu",
+      "image_path": "content_queue/images/2026-10-12-ic-ses-gucu.jpg",
+      "caption": "Kendinizle nasıl konuşuyorsunuz? 💭\n\nİç sesiniz, nasıl hissettiğinizi doğrudan şekillendirir. Kendinize söylediğiniz sözlere dikkat edin.\n\n#içses #özkonuşma #psikolojikansiklopedi",
+      "posted": false
+    },
+    {
+      "id": "2026-10-13-kiskanclik",
+      "image_path": "content_queue/images/2026-10-13-kiskanclik.jpg",
+      "caption": "Kıskançlığın kökeninde ne var? 💚\n\nÇoğu zaman kaybetme korkusundan değil, güvensizlik ve değersizlik hissinden beslenir.\n\n#kıskançlık #psikoloji #ilişkipsikolojisi",
+      "posted": false
+    },
+    {
+      "id": "2026-10-14-yalnizlik",
+      "image_path": "content_queue/images/2026-10-14-yalnizlik.jpg",
+      "caption": "Kalabalıkta bile yalnız hissedebilirsiniz 🌆\n\nYalnızlık, etrafınızdaki insan sayısıyla değil, bağın niteliğiyle ilgilidir.\n\n#yalnızlık #bağlantı #psikolojikansiklopedi",
+      "posted": false
+    },
+    {
+      "id": "2026-10-15-degisim-korkusu",
+      "image_path": "content_queue/images/2026-10-15-degisim-korkusu.jpg",
+      "caption": "Neden değişim bu kadar zor? 🌊\n\nBilinen acı, bilinmeyen huzurdan bazen daha güvenli hissettirir. Beynimiz belirsizlikten kaçınır.\n\n#değişim #psikoloji #konforalanı",
+      "posted": false
+    },
+    {
+      "id": "2026-10-16-saglikli-tartisma",
+      "image_path": "content_queue/images/2026-10-16-saglikli-tartisma.jpg",
+      "caption": "Çiftlerde sağlıklı tartışma nasıl olur? 💬\n\nKazanmak değil, anlaşılmak hedef olmalı. 'Sen hep...' yerine 'Ben ... hissediyorum' deyin.\n\n#ilişkiler #iletişim #psikolojikansiklopedi",
+      "posted": false
+    },
+    {
+      "id": "2026-10-17-duygusal-emek",
+      "image_path": "content_queue/images/2026-10-17-duygusal-emek.jpg",
+      "caption": "Duygusal emek sizi yoruyor mu? 🎭\n\nGerçek duygularınızı bastırıp beklenen tepkiyi vermek, uzun vadede tükenmişliğe yol açabilir.\n\n#duygusalemek #tükenmişlik #psikoloji",
+      "posted": false
+    },
+    {
+      "id": "2026-10-18-kendine-sefkat",
+      "image_path": "content_queue/images/2026-10-18-kendine-sefkat.jpg",
+      "caption": "Kendinize şefkat gösteriyor musunuz? 🤲\n\nBir arkadaşınıza gösterdiğiniz nazikliği kendinize de göstermek zayıflık değil, güçtür.\n\n#kendineşefkat #özbakım #psikolojikansiklopedi",
+      "posted": false
+    },
+    {
+      "id": "2026-10-19-karsilastirma-tuzagi",
+      "image_path": "content_queue/images/2026-10-19-karsilastirma-tuzagi.jpg",
+      "caption": "Sosyal medya karşılaştırma tuzağı 📱\n\nGördükleriniz, başkalarının en iyi anlarıdır. Kendi arka planınızla kıyaslamayın.\n\n#sosyalmedya #karşılaştırma #psikoloji",
+      "posted": false
+    },
+    {
+      "id": "2026-10-20-yas-asamalari",
+      "image_path": "content_queue/images/2026-10-20-yas-asamalari.jpg",
+      "caption": "Yasın 5 aşaması 🕊️\n\nİnkar, öfke, pazarlık, çöküntü, kabullenme. Bu süreç doğrusal değildir, ileri geri gidebilir.\n\n#yas #kayıp #psikolojikansiklopedi",
+      "posted": false
+    },
+    {
+      "id": "2026-10-21-oz-farkindalik",
+      "image_path": "content_queue/images/2026-10-21-oz-farkindalik.jpg",
+      "caption": "Öz-farkındalık nedir? 🪞\n\nDuygu, düşünce ve davranışlarınızı yargılamadan gözlemleyebilme becerisidir.\n\n#özfarkındalık #mindfulness #psikoloji",
+      "posted": false
+    },
+    {
+      "id": "2026-10-22-pasif-agresif",
+      "image_path": "content_queue/images/2026-10-22-pasif-agresif.jpg",
+      "caption": "Pasif-agresif davranışı tanıyor musunuz? 🙃\n\nÖfkeyi doğrudan değil, sessizlik ya da iğneleme gibi dolaylı yollarla ifade etme biçimidir.\n\n#pasifagresif #iletişim #psikolojikansiklopedi",
+      "posted": false
+    },
+    {
+      "id": "2026-10-23-terapiye-baslamak",
+      "image_path": "content_queue/images/2026-10-23-terapiye-baslamak.jpg",
+      "caption": "Terapiye başlamak için 'yeterince kötü' olmayı beklemeyin 🌱\n\nTerapi kriz anı için değil, bakım ve büyüme için de bir alandır.\n\n#terapi #ruhsağlığı #psikoloji",
+      "posted": false
+    },
+    {
+      "id": "2026-10-24-siniri-tanima",
+      "image_path": "content_queue/images/2026-10-24-siniri-tanima.jpg",
+      "caption": "Öfkenizin altında ne var? 🔥\n\nÖfke genelde tek başına gelmez — altında incinme, korku ya da adaletsizlik hissi yatar.\n\n#öfke #duygular #psikolojikansiklopedi",
       "posted": false
     }
   ]
