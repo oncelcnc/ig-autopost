@@ -4,7 +4,7 @@ on:
   schedule:
     # UTC saat 07:00 = Türkiye saatiyle 10:00 (yaz/kış saatine göre 3 saat fark)
     # Farklı bir saat istersen buradaki cron ifadesini değiştir: dakika saat gün ay haftagünü
-    - cron: "0 14 * * *"
+    - cron: "0 14 25 * *"
   workflow_dispatch: {}  # İstersen Actions sekmesinden elle de tetikleyebilirsin
 
 permissions:
