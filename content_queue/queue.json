@@ -5,7 +5,7 @@
       "image_path": "content_queue/images/2026-09-24-impostor.jpg",
       "caption": "İmpostor Sendromu nedir? 🎭Başarılarınızı hak etmediğinizi düşünmek, birazdan herkes gerçek yeteneksizliğimi fark edecek hissi... Bu, imposter sendromudur. Sandığınızdan çok daha yaygındır — ve üzerinde çalışılabilir.#impostorsendromu #psikoloji #psikolojikansiklopedi\n\n#psikoloji #gaslighting #psikolojikansiklopedi",
       "posted": true
-    }, 
+    },
     {
       "id": "2026-09-25-gaslighting",
       "image_path": "content_queue/images/2026-09-25-gaslighting.jpg",
@@ -16,7 +16,8 @@
       "id": "2026-09-26-baglanma-stilleri",
       "image_path": "content_queue/images/2026-09-26-baglanma-stilleri.jpg",
       "caption": "4 bağlanma stili ve ilişkilerinize etkisi 🔎\n\nGüvenli, kaygılı, kaçıngan ve dağınık bağlanma stilleri, çocuklukta oluşur ve yetişkinlikte ilişkilerinize şekil verir...\n\n#bağlanmastilleri #psikoloji #ilişkipsikolojisi",
-      "posted": false
+      "posted": true,
+      "published_media_id": "18126475591833334"
     },
     {
       "id": "2026-09-27-bilissel-carpitmalar",
